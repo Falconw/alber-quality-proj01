@@ -4,5 +4,10 @@
   "main": "index.js",
   "author": "Abraham A.",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "apollo-server": "^2.1.0",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11"
+  }
 }
